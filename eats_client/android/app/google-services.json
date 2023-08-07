@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49865303429",
+    "project_id": "try-hevea",
+    "storage_bucket": "try-hevea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49865303429:android:0b2df454ed2932ec6910ec",
+        "android_client_info": {
+          "package_name": "app.hevea.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49865303429-v8hv6lcp4jgbspiub7cu15m5q79phksb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBepMuSGe7qiUKDENMC8bmk3mwSTLXlvcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49865303429-v8hv6lcp4jgbspiub7cu15m5q79phksb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
