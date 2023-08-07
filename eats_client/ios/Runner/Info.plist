@@ -36,7 +36,7 @@
 	<key>CFBundleVersion</key>
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
 	<key>GoogleMapsAPIKey</key>
-	<string>AIzaSyDy9uHoorcME3zizED3FOmVmS0wND1VxYk</string>
+	<string><!-- Add GoogleMaps key here --></string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSLocationWhenInUseUsageDescription</key>
